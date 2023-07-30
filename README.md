@@ -1,5 +1,4 @@
 
-https://github.com/Sumit020402/Movie-Recommendation/assets/140976135/4c59b2c0-921c-4b49-93fd-4183a2e14c3a
 ﻿## Movie-recommendation
 
 If you're stuck in what to see next on the netflix. Here is the solution. 
@@ -26,7 +25,9 @@ To run this file:
 
 
 
-Uploading Streamlit.mp4… 
+
+https://github.com/Sumit020402/Movie-Recommendation/assets/140976135/4c59b2c0-921c-4b49-93fd-4183a2e14c3a
+
 
 
 
