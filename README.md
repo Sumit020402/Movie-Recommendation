@@ -21,3 +21,6 @@ This is a Machine Learning project.
 To run this file:
 1. import all files and libraries
 2. In terminal: Streamlit run main.py
+
+
+
