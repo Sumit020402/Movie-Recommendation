@@ -10,3 +10,14 @@ The goal of this project to understand about collborative filltering approach wh
 
 
 This is a Machine Learning project.
+
+
+
+
+
+
+
+
+To run this file:
+1. import all files and libraries
+2. In terminal: Streamlit run main.py
